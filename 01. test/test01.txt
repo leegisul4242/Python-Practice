@@ -1,1 +1,7 @@
-수정
+처음 push  할때,
+remote에서, - 깃허브 "그"repository  링크 URL 넣어서 remote확인 해주고
+
+거기다 push해야함.
+
+* 다른 repository 에 push 하려면,
+push할때 repository바꿔줘야함. 
